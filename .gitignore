@@ -1,0 +1,8 @@
+# List of untracked files to ignore
+
+# Resources created by Matlab
+resources/
+
+# git config
+*.gitattributes
+*.gitmodules
