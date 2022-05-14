@@ -2,7 +2,6 @@
 
 # Resources created by Matlab
 resources/
+derived/
 
 # git config
-*.gitattributes
-*.gitmodules
